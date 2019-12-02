@@ -1,0 +1,5 @@
+name: git-resource
+url: https://github.com/concourse/git-resource
+description: |
+  tracks commits in a branch of a Git repository.
+
